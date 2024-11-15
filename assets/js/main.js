@@ -77,7 +77,7 @@
 		}
 
 	// Gallery.
-		$window.on('load', function() {
+		/*$window.on('load', function() {
 
 			var $gallery = $('.gallery');
 
@@ -107,7 +107,7 @@
 					});
 				});
 
-		});
+		});*/
 
 	// Section transitions.
 		if (browser.canUse('transition')) {
